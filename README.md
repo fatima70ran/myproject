@@ -1,2 +1,2 @@
 # myproject
-tis is test repo
+this is test repo
